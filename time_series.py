@@ -13,8 +13,8 @@ time_series_data = [
     {"metadata": {"sensorId": 1, "type": "temperature"}, "timestamp": "2022-01-01T01:00:00", "value": 20},
     {"metadata": {"sensorId": 1, "type": "temperature"}, "timestamp": "2022-01-01T02:00:00", "value": 30},
     {"metadata": {"sensorId": 1, "type": "temperature"}, "timestamp": "2022-01-01T03:00:00", "value": 40},
-    {"metadata": {"sensorId": 2, "type": "cap"}, "timestamp": "2022-01-01T02:00:00", "value": 50},
-    {"metadata": {"sensorId": 2, "type": "cap"}, "timestamp": "2022-01-01T03:00:00", "value": 60},
+    {"metadata": {"sensorId": 2, "type": "CO2"}, "timestamp": "2022-01-01T02:00:00", "value": 50},
+    {"metadata": {"sensorId": 2, "type": "CO2"}, "timestamp": "2022-01-01T03:00:00", "value": 60},
 ]
 
 # Insert the time series data into the collection.
